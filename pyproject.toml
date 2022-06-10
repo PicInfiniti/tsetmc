@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "tqdm==4.64.0",
+    "grequests==0.6.0"
+]
+build-backend = "setuptools.build_meta"
